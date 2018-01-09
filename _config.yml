@@ -1,6 +1,7 @@
 # Site settings
 title: 인그니야의 블로그
 description: 임베디드 드라이버/어플리케이션
+email : hdcjg1991@gmail.com
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
