@@ -1,11 +1,11 @@
 # Site settings
-title: 인그니야의 블로그
-description: 임베디드 드라이버/어플리케이션
+title: Hanuman
+description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/Ingniya/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://ingniya.github.io" # the base hostname & protocol for your site
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -38,8 +38,8 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: Ingniya #github username
-repo: Ingniya.github.io #github repository
+username: samanyougarg #github username
+repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
