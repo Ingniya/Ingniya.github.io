@@ -5,8 +5,8 @@ email : hdcjg1991@gmail.com
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/Ingniya/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://ingniya.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://blog.ingniya.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -16,6 +16,7 @@ github:  github
 
 #Additional Pages
 about: about
+board: board
 contact: contact
 privacy-policy: privacy-policy
 
